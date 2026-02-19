@@ -1,0 +1,4 @@
+ERROR: Database timeout while processing order
+ERROR: Database timeout while processing payment
+ERROR: Database timeout while fetching user profile
+ERROR: Connection pool exhausted
